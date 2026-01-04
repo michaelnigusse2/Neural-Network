@@ -1,0 +1,49 @@
+Test Set Classification Report (Final 4-Class)
+============================================
+              precision    recall  f1-score   support
+
+       Minor     0.3276    0.6404    0.4335       267
+         PDO     0.8328    0.8807    0.8560      5699
+     Serious     0.7752    0.6562    0.7108      2365
+       Fatal     0.5145    0.3448    0.4129       667
+
+    accuracy                         0.7748      8998
+   macro avg     0.6125    0.6305    0.6033      8998
+weighted avg     0.7791    0.7748    0.7725      8998
+
+
+Detailed Per-Head Performance
+=============================
+
+--- Head 1: Severity (Non-Severe vs Severe) ---
+Accuracy: 0.9363
+              precision    recall  f1-score   support
+
+     Class 0     0.9665    0.9623    0.9644      8064
+     Class 1     0.6863    0.7120    0.6989       934
+
+    accuracy                         0.9363      8998
+   macro avg     0.8264    0.8371    0.8316      8998
+weighted avg     0.9374    0.9363    0.9368      8998
+
+--- Head 2: Non-Severe Type (Minor vs PDO) ---
+Accuracy: 0.8521
+              precision    recall  f1-score   support
+
+     Class 0     0.8674    0.9333    0.8992      5699
+     Class 1     0.8033    0.6562    0.7224      2365
+
+    accuracy                         0.8521      8064
+   macro avg     0.8354    0.7948    0.8108      8064
+weighted avg     0.8486    0.8521    0.8473      8064
+
+--- Head 3: Severe Type (Serious vs Fatal) ---
+Accuracy: 0.6563
+              precision    recall  f1-score   support
+
+     Class 0     0.8419    0.6387    0.7263       667
+     Class 1     0.4369    0.7004    0.5381       267
+
+    accuracy                         0.6563       934
+   macro avg     0.6394    0.6695    0.6322       934
+weighted avg     0.7261    0.6563    0.6725       934

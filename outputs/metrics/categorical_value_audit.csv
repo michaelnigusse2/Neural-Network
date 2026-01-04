@@ -1,0 +1,490 @@
+column_name,raw_value,count,dtype
+Accident Type (Cleaned),Minor,37990,object
+Accident Type (Cleaned),PDO,15767,object
+Accident Type (Cleaned),Serious,4445,object
+Accident Type (Cleaned),Fatal,1779,object
+Amet,0.0115635835508003,21652,float64
+Amet,0.0505011743530673,20214,float64
+Amet,-0.0273740072514665,18055,float64
+Amet,-0.0663115980537334,50,float64
+Amet,-78.1751187474012,9,float64
+Amet,-70.07609986052968,1,float64
+Day of the week_Friday,False,50948,bool
+Day of the week_Friday,True,9033,bool
+Day of the week_Monday,False,50809,bool
+Day of the week_Monday,True,9172,bool
+Day of the week_Saturday,False,51185,bool
+Day of the week_Saturday,True,8796,bool
+Day of the week_Sunday,False,54247,bool
+Day of the week_Sunday,True,5734,bool
+Day of the week_Thursday,False,51137,bool
+Day of the week_Thursday,True,8844,bool
+Day of the week_Tuesday,False,50520,bool
+Day of the week_Tuesday,True,9461,bool
+Day of the week_Wensday,False,51040,bool
+Day of the week_Wensday,True,8941,bool
+Driver Education Level_0,False,59980,bool
+Driver Education Level_0,True,1,bool
+Driver Education Level_12,False,59980,bool
+Driver Education Level_12,True,1,bool
+Driver Education Level_Bachlor degree,False,53666,bool
+Driver Education Level_Bachlor degree,True,6315,bool
+Driver Education Level_Below grade 10,False,59768,bool
+Driver Education Level_Below grade 10,True,213,bool
+Driver Education Level_Below grade 8,False,56924,bool
+Driver Education Level_Below grade 8,True,3057,bool
+Driver Education Level_Below grade 8bet,False,59979,bool
+Driver Education Level_Below grade 8bet,True,2,bool
+Driver Education Level_Between grade 10 and 12,False,59492,bool
+Driver Education Level_Between grade 10 and 12,True,489,bool
+Driver Education Level_Between grade 8 and 12,True,38017,bool
+Driver Education Level_Between grade 8 and 12,False,21964,bool
+Driver Education Level_Between grade 8 and 123,False,59980,bool
+Driver Education Level_Between grade 8 and 123,True,1,bool
+Driver Education Level_Between grade 8 and 12Between grade 8 and 12,False,59963,bool
+Driver Education Level_Between grade 8 and 12Between grade 8 and 12,True,18,bool
+Driver Education Level_Between grade 8 and 12Between grade 8 and 12Between grade 8 and 12Between grade 8 and 12,False,59979,bool
+Driver Education Level_Between grade 8 and 12Between grade 8 and 12Between grade 8 and 12Between grade 8 and 12,True,2,bool
+Driver Education Level_Between grade 8 and 12C,False,59979,bool
+Driver Education Level_Between grade 8 and 12C,True,2,bool
+Driver Education Level_Certificate,False,51880,bool
+Driver Education Level_Certificate,True,8101,bool
+Driver Education Level_Certificate1,False,59980,bool
+Driver Education Level_Certificate1,True,1,bool
+Driver Education Level_Day-Good visibility,False,59980,bool
+Driver Education Level_Day-Good visibility,True,1,bool
+Driver Education Level_Masters degree,False,58258,bool
+Driver Education Level_Masters degree,True,1723,bool
+Driver Education Level_Not Mentioned,False,59941,bool
+Driver Education Level_Not Mentioned,True,40,bool
+Driver Education Level_Other,False,59323,bool
+Driver Education Level_Other,True,658,bool
+Driver Education Level_PHD,False,59791,bool
+Driver Education Level_PHD,True,190,bool
+Driver Education Level_Unknown,False,58835,bool
+Driver Education Level_Unknown,True,1146,bool
+Driver Education Level_bab,False,59980,bool
+Driver Education Level_bab,True,1,bool
+Driver Education Level_brt,False,59980,bool
+Driver Education Level_brt,True,1,bool
+Driver Education Level_vet,False,59980,bool
+Driver Education Level_vet,True,1,bool
+Driver Sex_28,False,59980,bool
+Driver Sex_28,True,1,bool
+Driver Sex_29,False,59980,bool
+Driver Sex_29,True,1,bool
+Driver Sex_32,False,59980,bool
+Driver Sex_32,True,1,bool
+Driver Sex_36,False,59980,bool
+Driver Sex_36,True,1,bool
+Driver Sex_Femal,False,59980,bool
+Driver Sex_Femal,True,1,bool
+Driver Sex_Female,False,58054,bool
+Driver Sex_Female,True,1927,bool
+Driver Sex_Mal,False,59980,bool
+Driver Sex_Mal,True,1,bool
+Driver Sex_Male,True,58003,bool
+Driver Sex_Male,False,1978,bool
+Driver Sex_Unknown,False,59937,bool
+Driver Sex_Unknown,True,44,bool
+Driver Sex_mm,False,59980,bool
+Driver Sex_mm,True,1,bool
+Driver Vehicle Relation_EE,False,59977,bool
+Driver Vehicle Relation_EE,True,4,bool
+Driver Vehicle Relation_Employee,True,41994,bool
+Driver Vehicle Relation_Employee,False,17987,bool
+Driver Vehicle Relation_Employee2,False,59980,bool
+Driver Vehicle Relation_Employee2,True,1,bool
+Driver Vehicle Relation_Employeeo,False,59980,bool
+Driver Vehicle Relation_Employeeo,True,1,bool
+Driver Vehicle Relation_Not Mentioned,False,59587,bool
+Driver Vehicle Relation_Not Mentioned,True,394,bool
+Driver Vehicle Relation_Other,False,55317,bool
+Driver Vehicle Relation_Other,True,4664,bool
+Driver Vehicle Relation_Owner,False,47114,bool
+Driver Vehicle Relation_Owner,True,12867,bool
+Driver Vehicle Relation_Unknown,False,59936,bool
+Driver Vehicle Relation_Unknown,True,45,bool
+Driver Vehicle Relation_e',False,59980,bool
+Driver Vehicle Relation_e',True,1,bool
+Driver Vehicle Relation_employee,False,59975,bool
+Driver Vehicle Relation_employee,True,6,bool
+Driver Vehicle Relation_p,False,59980,bool
+Driver Vehicle Relation_p,True,1,bool
+Driver Vehicle Relation_s,False,59978,bool
+Driver Vehicle Relation_s,True,3,bool
+Driver's Action_Changing lanes,False,58919,bool
+Driver's Action_Changing lanes,True,1062,bool
+Driver's Action_Exiting/entering a Junction,False,57921,bool
+Driver's Action_Exiting/entering a Junction,True,2060,bool
+"Driver's Action_Making ""U"" turn",False,58851,bool
+"Driver's Action_Making ""U"" turn",True,1130,bool
+Driver's Action_Moving straight,False,59548,bool
+Driver's Action_Moving straight,True,433,bool
+Driver's Action_Moving straignt,True,37891,bool
+Driver's Action_Moving straignt,False,22090,bool
+Driver's Action_Other,False,58648,bool
+Driver's Action_Other,True,1333,bool
+Driver's Action_Overtake,False,57071,bool
+Driver's Action_Overtake,True,2910,bool
+Driver's Action_Reversing,False,55670,bool
+Driver's Action_Reversing,True,4311,bool
+Driver's Action_Stopping,False,59606,bool
+Driver's Action_Stopping,True,375,bool
+Driver's Action_Turning left,False,56005,bool
+Driver's Action_Turning left,True,3976,bool
+Driver's Action_Turning right,False,55912,bool
+Driver's Action_Turning right,True,4069,bool
+Driver's Action_Unknown,False,59550,bool
+Driver's Action_Unknown,True,431,bool
+Junction Type_Complex junction,False,58822,bool
+Junction Type_Complex junction,True,1159,bool
+Junction Type_Cross roads,False,51166,bool
+Junction Type_Cross roads,True,8815,bool
+Junction Type_No Junction,True,30093,bool
+Junction Type_No Junction,False,29888,bool
+Junction Type_Other,False,59633,bool
+Junction Type_Other,True,348,bool
+Junction Type_Roundabout,False,54029,bool
+Junction Type_Roundabout,True,5952,bool
+Junction Type_T Junction,False,47975,bool
+Junction Type_T Junction,True,12006,bool
+Junction Type_Y-Junction,False,58373,bool
+Junction Type_Y-Junction,True,1608,bool
+Land Use_35,False,59980,bool
+Land Use_35,True,1,bool
+Land Use_Along Rular Road,False,59971,bool
+Land Use_Along Rular Road,True,10,bool
+Land Use_Factory Area,False,58869,bool
+Land Use_Factory Area,True,1112,bool
+Land Use_Hospital Area,False,58766,bool
+Land Use_Hospital Area,True,1215,bool
+Land Use_In Airport Area,False,59953,bool
+Land Use_In Airport Area,True,28,bool
+Land Use_In small vilage,False,59942,bool
+Land Use_In small vilage,True,39,bool
+Land Use_Market area,False,35098,bool
+Land Use_Market area,True,24883,bool
+Land Use_Office Area,False,47765,bool
+Land Use_Office Area,True,12216,bool
+Land Use_Other,False,59973,bool
+Land Use_Other,True,8,bool
+Land Use_RESW,False,59980,bool
+Land Use_RESW,True,1,bool
+Land Use_RS,False,59980,bool
+Land Use_RS,True,1,bool
+Land Use_Receational Area,False,57264,bool
+Land Use_Receational Area,True,2717,bool
+Land Use_Religious Area,False,56516,bool
+Land Use_Religious Area,True,3465,bool
+Land Use_Residential Area,False,48266,bool
+Land Use_Residential Area,True,11715,bool
+Land Use_School Area,False,58043,bool
+Land Use_School Area,True,1938,bool
+Land Use_om,False,59980,bool
+Land Use_om,True,1,bool
+Land Use_oo,False,59980,bool
+Land Use_oo,True,1,bool
+Land Use_other,False,59351,bool
+Land Use_other,True,630,bool
+Light Condition_Dark-Good lighting,False,54689,bool
+Light Condition_Dark-Good lighting,True,5292,bool
+Light Condition_Dark-No lighting,False,59121,bool
+Light Condition_Dark-No lighting,True,860,bool
+Light Condition_Dark-Poor lighting,False,56897,bool
+Light Condition_Dark-Poor lighting,True,3084,bool
+Light Condition_Dark-Unlight lighting,False,59815,bool
+Light Condition_Dark-Unlight lighting,True,166,bool
+Light Condition_Day-Good visibility,True,49114,bool
+Light Condition_Day-Good visibility,False,10867,bool
+Light Condition_Day-Poor visibility,False,58649,bool
+Light Condition_Day-Poor visibility,True,1332,bool
+Light Condition_Unknown,False,59848,bool
+Light Condition_Unknown,True,133,bool
+Number of involved vehicles,0.4012373868797372,43586,float64
+Number of involved vehicles,-0.956923995876105,12231,float64
+Number of involved vehicles,-2.315085378631947,3433,float64
+Number of involved vehicles,1.7593987696355793,581,float64
+Number of involved vehicles,3.1175601523914214,96,float64
+Number of involved vehicles,4.475721535147264,14,float64
+Number of involved vehicles,5.8338829179031055,9,float64
+Number of involved vehicles,24.8481422764849,8,float64
+Number of involved vehicles,27.564465041996584,4,float64
+Number of involved vehicles,26.206303659240746,4,float64
+Number of involved vehicles,8.55020568341479,3,float64
+Number of involved vehicles,7.192044300658948,2,float64
+Number of involved vehicles,12.624689831682316,2,float64
+Number of involved vehicles,41.146078869555005,2,float64
+Number of involved vehicles,38.42975610404332,2,float64
+Number of involved vehicles,13.982851214438158,1,float64
+Number of involved vehicles,34.35527195577579,1,float64
+Number of involved vehicles,28.922626424752423,1,float64
+Number of involved vehicles,11.266528448926474,1,float64
+Primary Collision type_At Angle,False,46453,bool
+Primary Collision type_At Angle,True,13528,bool
+Primary Collision type_Collision with Animal,False,59962,bool
+Primary Collision type_Collision with Animal,True,19,bool
+Primary Collision type_Head-on collision,False,54280,bool
+Primary Collision type_Head-on collision,True,5701,bool
+Primary Collision type_Other,False,59494,bool
+Primary Collision type_Other,True,487,bool
+Primary Collision type_Overturning,False,59324,bool
+Primary Collision type_Overturning,True,657,bool
+Primary Collision type_Pedestrian,False,53347,bool
+Primary Collision type_Pedestrian,True,6634,bool
+Primary Collision type_Pedestrian/with static object,False,59980,bool
+Primary Collision type_Pedestrian/with static object,True,1,bool
+Primary Collision type_Rear end collision,False,44025,bool
+Primary Collision type_Rear end collision,True,15956,bool
+Primary Collision type_Side Swip,False,49723,bool
+Primary Collision type_Side Swip,True,10258,bool
+Primary Collision type_Unknown,False,59728,bool
+Primary Collision type_Unknown,True,253,bool
+Primary Collision type_With Parked Vehicle,False,58937,bool
+Primary Collision type_With Parked Vehicle,True,1044,bool
+Primary Collision type_With Rail,False,59969,bool
+Primary Collision type_With Rail,True,12,bool
+Primary Collision type_With Static object,False,54550,bool
+Primary Collision type_With Static object,True,5431,bool
+Road Character_Bend,False,58701,bool
+Road Character_Bend,True,1280,bool
+Road Character_Down-hill,False,58706,bool
+Road Character_Down-hill,True,1275,bool
+Road Character_Other,False,59512,bool
+Road Character_Other,True,469,bool
+Road Character_Straight,True,56380,bool
+Road Character_Straight,False,3601,bool
+Road Character_Up-Hill,False,59416,bool
+Road Character_Up-Hill,True,565,bool
+Road Character_straight,False,59969,bool
+Road Character_straight,True,12,bool
+Road Surface_Dry,True,56342,bool
+Road Surface_Dry,False,3639,bool
+Road Surface_Muddy,False,59931,bool
+Road Surface_Muddy,True,50,bool
+Road Surface_Other,False,59395,bool
+Road Surface_Other,True,586,bool
+Road Surface_Wet,False,56994,bool
+Road Surface_Wet,True,2987,bool
+Road Surface_dry,False,59965,bool
+Road Surface_dry,True,16,bool
+Road Type_Not-specified,False,59415,bool
+Road Type_Not-specified,True,566,bool
+Road Type_One way,False,56773,bool
+Road Type_One way,True,3208,bool
+Road Type_Other,False,59977,bool
+Road Type_Other,True,4,bool
+Road Type_Two-Way divided by solid line,False,59205,bool
+Road Type_Two-Way divided by solid line,True,776,bool
+Road Type_Two-way divided by broken line,False,59361,bool
+Road Type_Two-way divided by broken line,True,620,bool
+Road Type_Two-way divided by median,True,43807,bool
+Road Type_Two-way divided by median,False,16174,bool
+Road Type_Two-way without Median,False,48981,bool
+Road Type_Two-way without Median,True,11000,bool
+Time_0,False,59980,bool
+Time_0,True,1,bool
+Time_00:00-01:00,False,59576,bool
+Time_00:00-01:00,True,405,bool
+Time_01:00-02:00,False,59436,bool
+Time_01:00-02:00,True,545,bool
+Time_02:00-03:00,False,59480,bool
+Time_02:00-03:00,True,501,bool
+Time_03:00-04:00,False,59566,bool
+Time_03:00-04:00,True,415,bool
+Time_04:00-05:00,False,59533,bool
+Time_04:00-05:00,True,448,bool
+Time_05:00-06:00,False,59198,bool
+Time_05:00-06:00,True,783,bool
+Time_06:00-07:00,False,58308,bool
+Time_06:00-07:00,True,1673,bool
+Time_07:00-08:00,False,56022,bool
+Time_07:00-08:00,True,3959,bool
+Time_08:00-09:00,False,55605,bool
+Time_08:00-09:00,True,4376,bool
+Time_09:00-10:00,False,55949,bool
+Time_09:00-10:00,True,4032,bool
+Time_10:00-11:00,False,55508,bool
+Time_10:00-11:00,True,4473,bool
+Time_113,False,59980,bool
+Time_113,True,1,bool
+Time_11:00-12:00,False,55167,bool
+Time_11:00-12:00,True,4814,bool
+Time_12:00-13:00,False,55993,bool
+Time_12:00-13:00,True,3988,bool
+Time_13:00-14:00,False,56847,bool
+Time_13:00-14:00,True,3134,bool
+Time_14:00-15:00,False,56259,bool
+Time_14:00-15:00,True,3722,bool
+Time_15:00-16:00,False,56131,bool
+Time_15:00-16:00,True,3850,bool
+Time_16:00-11:00,False,59980,bool
+Time_16:00-11:00,True,1,bool
+Time_16:00-17:00,False,56051,bool
+Time_16:00-17:00,True,3930,bool
+Time_17:00-18:00,False,56417,bool
+Time_17:00-18:00,True,3564,bool
+Time_18:00-19:00,False,57113,bool
+Time_18:00-19:00,True,2868,bool
+Time_19:00-20:00,False,57149,bool
+Time_19:00-20:00,True,2832,bool
+Time_20:00-21:00,False,57901,bool
+Time_20:00-21:00,True,2080,bool
+Time_21:00-22:00,False,58401,bool
+Time_21:00-22:00,True,1580,bool
+Time_22:00-23:00,False,58883,bool
+Time_22:00-23:00,True,1098,bool
+Time_23:00-24:00,False,59079,bool
+Time_23:00-24:00,True,902,bool
+Time_23:00-24:01,False,59979,bool
+Time_23:00-24:01,True,2,bool
+Time_24,False,59980,bool
+Time_24,True,1,bool
+Time_27,False,59980,bool
+Time_27,True,1,bool
+Time_40,False,59980,bool
+Time_40,True,1,bool
+Time_s,False,59980,bool
+Time_s,True,1,bool
+Veh Ownership_5,False,59980,bool
+Veh Ownership_5,True,1,bool
+Veh Ownership_AU,False,59946,bool
+Veh Ownership_AU,True,35,bool
+Veh Ownership_Core Diplomat,False,59844,bool
+Veh Ownership_Core Diplomat,True,137,bool
+Veh Ownership_Employeeo,False,59980,bool
+Veh Ownership_Employeeo,True,1,bool
+Veh Ownership_Government,False,54679,bool
+Veh Ownership_Government,True,5302,bool
+Veh Ownership_Military or Police,False,59638,bool
+Veh Ownership_Military or Police,True,343,bool
+Veh Ownership_NGO,False,57847,bool
+Veh Ownership_NGO,True,2134,bool
+Veh Ownership_Other,False,59451,bool
+Veh Ownership_Other,True,530,bool
+Veh Ownership_Owner,False,59932,bool
+Veh Ownership_Owner,True,49,bool
+Veh Ownership_PP,False,59979,bool
+Veh Ownership_PP,True,2,bool
+Veh Ownership_PPP,False,59980,bool
+Veh Ownership_PPP,True,1,bool
+Veh Ownership_Privat,False,59977,bool
+Veh Ownership_Privat,True,4,bool
+Veh Ownership_Private,True,51392,bool
+Veh Ownership_Private,False,8589,bool
+Veh Ownership_PrivateN,False,59980,bool
+Veh Ownership_PrivateN,True,1,bool
+Veh Ownership_Privateg,False,59979,bool
+Veh Ownership_Privateg,True,2,bool
+Veh Ownership_Privaten,False,59979,bool
+Veh Ownership_Privaten,True,2,bool
+Veh Ownership_UN,False,59937,bool
+Veh Ownership_UN,True,44,bool
+Veh Ownership_pp,False,59980,bool
+Veh Ownership_pp,True,1,bool
+Vehicle Defects_No,True,59657,bool
+Vehicle Defects_No,False,324,bool
+Vehicle Defects_Unknown,False,59972,bool
+Vehicle Defects_Unknown,True,9,bool
+Vehicle Defects_Yes,False,59666,bool
+Vehicle Defects_Yes,True,315,bool
+Vehicle Type_Automobile,False,38692,bool
+Vehicle Type_Automobile,True,21289,bool
+Vehicle Type_Bajaj,False,59232,bool
+Vehicle Type_Bajaj,True,749,bool
+Vehicle Type_Dump Truck,False,55982,bool
+Vehicle Type_Dump Truck,True,3999,bool
+Vehicle Type_Large bus (More than 45 Passenger),False,57976,bool
+Vehicle Type_Large bus (More than 45 Passenger),True,2005,bool
+Vehicle Type_Motor Bike,False,59376,bool
+Vehicle Type_Motor Bike,True,605,bool
+Vehicle Type_Not Mentioned,False,59113,bool
+Vehicle Type_Not Mentioned,True,868,bool
+Vehicle Type_Other,False,58756,bool
+Vehicle Type_Other,True,1225,bool
+Vehicle Type_Pick Up,False,54741,bool
+Vehicle Type_Pick Up,True,5240,bool
+Vehicle Type_Small bus (less than 45 passenger),False,55909,bool
+Vehicle Type_Small bus (less than 45 passenger),True,4072,bool
+Vehicle Type_Station Wagon,False,52850,bool
+Vehicle Type_Station Wagon,True,7131,bool
+Vehicle Type_Taxi,False,51436,bool
+Vehicle Type_Taxi,True,8545,bool
+Vehicle Type_Truck Trailer,False,55728,bool
+Vehicle Type_Truck Trailer,True,4253,bool
+Weather Condition_Dry,True,55773,bool
+Weather Condition_Dry,False,4208,bool
+Weather Condition_Fog/mist,False,59843,bool
+Weather Condition_Fog/mist,True,138,bool
+Weather Condition_Frost/ice/hail storm,False,59896,bool
+Weather Condition_Frost/ice/hail storm,True,85,bool
+Weather Condition_High winds,False,59845,bool
+Weather Condition_High winds,True,136,bool
+Weather Condition_Other,False,59822,bool
+Weather Condition_Other,True,159,bool
+Weather Condition_Rain/Wet,False,56956,bool
+Weather Condition_Rain/Wet,True,3025,bool
+Weather Condition_Unknown,False,59316,bool
+Weather Condition_Unknown,True,665,bool
+Wor_25,False,59980,bool
+Wor_25,True,1,bool
+Wor_Apil,False,56147,bool
+Wor_Apil,True,3834,bool
+Wor_ApilApil,False,59980,bool
+Wor_ApilApil,True,1,bool
+Wor_Apirl,False,59953,bool
+Wor_Apirl,True,28,bool
+Wor_April,False,59183,bool
+Wor_April,True,798,bool
+Wor_Augest,False,56416,bool
+Wor_Augest,True,3565,bool
+Wor_December,False,55060,bool
+Wor_December,True,4921,bool
+Wor_DecemberDecember,False,59980,bool
+Wor_DecemberDecember,True,1,bool
+Wor_February,False,54882,bool
+Wor_February,True,5099,bool
+Wor_FebruaryFebruary,False,59980,bool
+Wor_FebruaryFebruary,True,1,bool
+Wor_FebruaryFebruaryFebruaryFebruaryFebruary,False,59980,bool
+Wor_FebruaryFebruaryFebruaryFebruaryFebruary,True,1,bool
+Wor_January,False,54702,bool
+Wor_January,True,5279,bool
+Wor_JanuaryJanuary,False,59978,bool
+Wor_JanuaryJanuary,True,3,bool
+Wor_July,False,54688,bool
+Wor_July,True,5293,bool
+Wor_JulyJuly,False,59977,bool
+Wor_JulyJuly,True,4,bool
+Wor_June,False,54470,bool
+Wor_June,True,5511,bool
+Wor_March,False,54722,bool
+Wor_March,True,5259,bool
+Wor_MarchMarch,False,59977,bool
+Wor_MarchMarch,True,4,bool
+Wor_May,False,54794,bool
+Wor_May,True,5187,bool
+Wor_MayMay,False,59980,bool
+Wor_MayMay,True,1,bool
+Wor_November,False,54953,bool
+Wor_November,True,5028,bool
+Wor_NovemberNovember,False,59980,bool
+Wor_NovemberNovember,True,1,bool
+Wor_October,False,54922,bool
+Wor_October,True,5059,bool
+Wor_OctoberOctober,False,59980,bool
+Wor_OctoberOctober,True,1,bool
+Wor_Phagume,False,59273,bool
+Wor_Phagume,True,708,bool
+Wor_September,False,55595,bool
+Wor_September,True,4386,bool
+Wor_SeptemberSeptember,False,59979,bool
+Wor_SeptemberSeptember,True,2,bool
+Wor_SeptemberSeptemberSeptember,False,59980,bool
+Wor_SeptemberSeptemberSeptember,True,1,bool
+Wor_aau,False,59980,bool
+Wor_aau,True,1,bool
+Wor_ayg,False,59979,bool
+Wor_ayg,True,2,bool
+Wor_my,False,59980,bool
+Wor_my,True,1,bool

@@ -1,0 +1,10 @@
+Categorical Value Audit Summary
+========================================
+Total rows analyzed: 59,981
+Categorical columns inspected: 233
+
+Columns requiring attention:
+- Number of involved vehicles (dtype=float64, cardinality=19): Numeric dtype flagged as categorical (check encoding)
+- Amet (dtype=float64, cardinality=6): Numeric dtype flagged as categorical (check encoding)
+
+Full per-value details stored in categorical_value_audit.csv.
